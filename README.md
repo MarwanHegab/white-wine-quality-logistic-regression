@@ -1,6 +1,6 @@
 # White Wine Quality: A Logistic Regression Model
 
-Team project for Math 456 (Mathematical Modeling). We use logistic regression
+We use logistic regression
 to classify white wines as "good" (quality score >= 7) or not, based on
 physicochemical measurements from the UCI Machine Learning Repository's
 [Wine Quality dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)
